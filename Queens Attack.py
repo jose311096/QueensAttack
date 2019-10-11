@@ -177,7 +177,7 @@ def queensAttack (n,k,r_q,c_q,obs_f,obs_c):
     print ()
     print ("el numero de casillas jugables por la reina es: " + str(contador))
     
-    raw_input()
+    
     return()
 
 
